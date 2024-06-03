@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">UTSAndroid-PemAndroid3-10121073-NaszaDwiPrayoga</string>
+    <string name="judul_form">Form Pengisian Data</string>
+    <string name="jenis_tes">Jenis Tes</string>
+    <string name="harus_isi">- Harus Diisi</string>
+    <string name="rapid">Rapid Antigen</string>
+    <string name="pcr">PCR</string>
+    <string name="tanggal">Tanggal Terkonfirmasi</string>
+    <string name="tanggal_lahir">Tanggal Lahir</string>
+    <string name="nama">Nama</string>
+    <string name="nik">NIK</string>
+    <string name="jenis_kelamin">Jenis Kelamin</string>
+    <string name="laki">Laki - Laki</string>
+    <string name="perem">Perempuan</string>
+    <string name="hubungan">Hubungan Dengan Anda</string>
+    <string name="ortu">Orang Tua</string>
+    <string name="suamis">Suami / Istri</string>
+    <string name="anak">Anak</string>
+    <string name="kerabat">Kerabat lainnya</string>
+    <string name="persetujuan">Dengan ini saya menyetujui bahwa data yang saya isikan adalah benar</string>
+    <string name="selanjutnya">Selanjutnya</string>
+    <string name="cek_data">Cek Kembali Isian Data</string>
+    <string name="cek_hasil">Cek Hasil Tes</string>
+    <string name="ubah">Ubah</string>
+    <string name="ok">OK</string>
+
+</resources>
